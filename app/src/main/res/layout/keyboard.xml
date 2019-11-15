@@ -14,7 +14,7 @@
                 android:orientation="horizontal">
 
             <Button
-                    android:id="@+id/button_1"
+                    android:id="@+id/button1"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -27,7 +27,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="1"/>
             <Button
-                    android:id="@+id/button_2"
+                    android:id="@+id/button2"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -40,7 +40,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="2"/>
             <Button
-                    android:id="@+id/button_3"
+                    android:id="@+id/button3"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -53,7 +53,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="3"/>
             <Button
-                    android:id="@+id/button_4"
+                    android:id="@+id/button4"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -66,7 +66,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="4"/>
             <Button
-                    android:id="@+id/button_5"
+                    android:id="@+id/button5"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -79,7 +79,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="5"/>
             <Button
-                    android:id="@+id/button_6"
+                    android:id="@+id/button6"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -92,7 +92,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="6"/>
             <Button
-                    android:id="@+id/button_7"
+                    android:id="@+id/button7"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -105,7 +105,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="7"/>
             <Button
-                    android:id="@+id/button_8"
+                    android:id="@+id/button8"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -118,7 +118,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="8"/>
             <Button
-                    android:id="@+id/button_9"
+                    android:id="@+id/button9"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -133,7 +133,7 @@
 
 
             <Button
-                    android:id="@+id/button_0"
+                    android:id="@+id/button0"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -158,7 +158,7 @@
                 android:orientation="horizontal">
 
             <Button
-                    android:id="@+id/button_Q"
+                    android:id="@+id/buttonQ"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -171,7 +171,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="Q"/>
             <Button
-                    android:id="@+id/button_W"
+                    android:id="@+id/buttonW"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -184,7 +184,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="W"/>
             <Button
-                    android:id="@+id/button_E"
+                    android:id="@+id/buttonE"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -197,7 +197,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="E"/>
             <Button
-                    android:id="@+id/button_R"
+                    android:id="@+id/buttonR"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -210,7 +210,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="R"/>
             <Button
-                    android:id="@+id/button_T"
+                    android:id="@+id/buttonT"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -223,7 +223,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="T"/>
             <Button
-                    android:id="@+id/button_Y"
+                    android:id="@+id/buttonY"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -236,7 +236,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="Y"/>
             <Button
-                    android:id="@+id/button_U"
+                    android:id="@+id/buttonU"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -249,7 +249,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="U"/>
             <Button
-                    android:id="@+id/button_I"
+                    android:id="@+id/buttonI"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -262,7 +262,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="I"/>
             <Button
-                    android:id="@+id/button_O"
+                    android:id="@+id/buttonO"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -275,7 +275,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="O"/>
             <Button
-                    android:id="@+id/button_P"
+                    android:id="@+id/buttonP"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -300,7 +300,7 @@
 
 
             <Button
-                    android:id="@+id/button_A"
+                    android:id="@+id/buttonA"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -313,7 +313,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="A"/>
             <Button
-                    android:id="@+id/button_S"
+                    android:id="@+id/buttonS"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -326,7 +326,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="S"/>
             <Button
-                    android:id="@+id/button_D"
+                    android:id="@+id/buttonD"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -339,7 +339,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="D"/>
             <Button
-                    android:id="@+id/button_F"
+                    android:id="@+id/buttonF"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -352,7 +352,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="F"/>
             <Button
-                    android:id="@+id/button_G"
+                    android:id="@+id/buttonG"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -365,7 +365,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="G"/>
             <Button
-                    android:id="@+id/button_H"
+                    android:id="@+id/buttonH"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -378,7 +378,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="H"/>
             <Button
-                    android:id="@+id/button_J"
+                    android:id="@+id/buttonJ"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -391,7 +391,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="J"/>
             <Button
-                    android:id="@+id/button_K"
+                    android:id="@+id/buttonK"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -404,7 +404,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="K"/>
             <Button
-                    android:id="@+id/button_L"
+                    android:id="@+id/buttonL"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -429,7 +429,7 @@
                 android:orientation="horizontal">
 
             <Button
-                    android:id="@+id/button_Z"
+                    android:id="@+id/buttonZ"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -442,7 +442,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="Z"/>
             <Button
-                    android:id="@+id/button_X"
+                    android:id="@+id/buttonX"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -455,7 +455,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="X"/>
             <Button
-                    android:id="@+id/button_C"
+                    android:id="@+id/buttonC"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -468,7 +468,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="C"/>
             <Button
-                    android:id="@+id/button_V"
+                    android:id="@+id/buttonV"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -481,7 +481,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="V"/>
             <Button
-                    android:id="@+id/button_B"
+                    android:id="@+id/buttonB"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -494,7 +494,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="B"/>
             <Button
-                    android:id="@+id/button_N"
+                    android:id="@+id/buttonN"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -507,7 +507,7 @@
                     android:textAppearance="@style/KeyBoardButtonText"
                     android:text="N"/>
             <Button
-                    android:id="@+id/button_M"
+                    android:id="@+id/buttonM"
                     android:layout_width="60px"
                     android:layout_height="60px"
                     android:layout_marginTop="5px"
@@ -521,7 +521,7 @@
                     android:text="M"/>
 
             <Button
-                    android:id="@+id/button_delete"
+                    android:id="@+id/buttonDelete"
                     android:layout_width="190px"
                     android:layout_height="60px"
                     android:background="@drawable/keyboard_button_bg"
